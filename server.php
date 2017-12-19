@@ -8,7 +8,7 @@
 
 
   //connect to database
-	$db = mysqli_connect('localhost','root', '123', 'crud');
+	$db = mysqli_connect('localhost','root', '123', 'test-project');
  
 	//if save button is clicked
 
